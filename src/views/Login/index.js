@@ -27,8 +27,8 @@ function Login() {
 
     // giá trọ khởi tạo cho formik
     const initialValue = {
-        email: 'dinhkhang1511@gmail.com',
-        password: '123456789',
+        email: 'testinput@gmail.com',
+        password: '123456',
         keepLogin: false,
     };
 
